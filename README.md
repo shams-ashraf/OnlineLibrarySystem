@@ -27,7 +27,7 @@ SQL Server Management Studio (SSMS) (optional, for database management).
 
 Setup Instructions
 
-Clone the Repository:git clone https://github.com/your-username/OnlineLibrarySystem.git
+Clone the Repository:git clone https://github.com/shams-ashraf/OnlineLibrarySystem.git
 
 
 Database Setup:
